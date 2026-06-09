@@ -1,10 +1,6 @@
 # Hi, I'm Oscar 👋
 Final Year Computer Science (Software Engineering) student at MMU.<br><br>Passionate about Full-Stack Development and Mobile App Development, with experience in building web and mobile applications using modern frameworks and tools.
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/z0NTv7yYBtQAAAAd/oiia-cat.gif" width="200"/>
-</p>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oscar-tan-hou-le-44149a393/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oscar040509tan@gmail.com) 
