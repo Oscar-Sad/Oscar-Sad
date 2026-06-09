@@ -1,6 +1,6 @@
 # Hi, I'm Oscar 👋
 Final Year Computer Science (Software Engineering) student at MMU.<br><br>Passionate about Full-Stack Development and Mobile App Development, with experience in building web and mobile applications using modern frameworks and tools.
-![welcome gif]([https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://tenor.com/view/oiia-cat-gif-14934872872258635476))
+
 
 
 ## 🌐 Socials:
